@@ -1,0 +1,42 @@
+/* NewContactForm.css */
+.new-contact-form {
+    max-width: 400px;
+    margin: auto;
+  }
+  
+  /* Estilos para el recuadro del formulario */
+  .form-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  /* Estilos para las etiquetas y entradas de formulario */
+  .new-contact-form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .new-contact-form input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilos para el botón "Save and Return" */
+  .save-and-return-button {
+    background-color: green;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Estilos para el enlace de retorno */
+  .back-link {
+    display: block;
+    margin-top: 10px;
+  }
+  
